@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Lesson10.7</string>
+    <string name="title_nation" tools:ignore="ExtraTranslation">Nation</string>
+    <string name="title_capital">Capital</string>
+    <string name="title_home">Nation And Population</string>
+    <string name="title_nation_detail">Nation: %s</string>
+    <string name="title_capital_detail">Capital: %s</string>
+    <string name="title_population">Population: %s million people</string>
+    <string name="title_area">Area: %s Km\u00B2</string>
+    <string name="title_density">Density: %s people/Km\u00B2</string>
+    <string name="title_world_share">World Share: %s</string>
+    <string name="desc_image_item">Display country item flag</string>
+</resources>
